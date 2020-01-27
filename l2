@@ -1,0 +1,24 @@
+<html>
+   <head>
+     <title>FRUITS</title>
+    </head>
+<body>
+<ol>
+ <LI>Fruits<UL>
+<LI>bananas</LI>
+<LI>Apple</LI>
+
+<OL TYPE="i">
+<LI>Red</LI>
+<LI>Green</LI>
+</OL>
+</UL>
+</LI>
+<LI>Vegetables:
+<OL TYPE="i">
+<LI>Tomato</LI>
+<LI>Carrot</LI>
+</LI>
+<OL>
+</body>
+</html>
