@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>html marque tag</title>
+</head>
+<body>
+<marquee>basic example for marque</marquee>
+<marquee direction="left">this text will scroll from right to left</marquee>
+<p> <img src="one.jpg" alt="smiley face" style="float:right;width:80px;height:80px;"></p>
+<img src="index.jpeg" alt="one" usemap="#one">
+<map name="one">
+<area shape="rect" coords="0,0,100,100" alt="phone" href="two.htm">
+<area shape="circle" coords="337,300,44" alt="coffee" href="two .htm">
+</map>
+the image will float to right of the text</p>
+</body>
+</html>
