@@ -1,7 +1,7 @@
 <html>
 <frameset cols="*,*">
-<frame src="one.htm">
-<frame src="two.htm">
-<frame src="three.htm">
+<frame src="one.jpg">
+<frame src="original.jpg">
+<frame src="index.jpeg">
 </frameset>
 
