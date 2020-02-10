@@ -1,0 +1,9 @@
+<html>
+<head>
+<title> html iframes</title>
+</head>
+<body>
+<p>document content goes here</p>
+<iframe src="www.google.com" width="555" height="200">
+sorry your browser does not support inline frames
+</iframes>
