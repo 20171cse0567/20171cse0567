@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>html iframes</title>
+</head>
+<body>
+<p>document content goes here</p>
+<iframe src="index.jpeg" name="iframe_a"></iframe>
+<p><a href="https://www.presidencyuniversity.in"
+target="iframe_a">load a new web page</a></p>
