@@ -1,0 +1,32 @@
+<html>
+<head>
+<style>
+div {
+  background: rgb(76, 175, 80);
+  padding: 10px;
+}
+
+div.first {
+  background: rgba(76, 175, 80, 0.1);
+}
+
+div.second {
+  background: rgba(76, 175, 80, 0.3);
+}
+
+div.third {
+  background: rgba(76, 175, 80, 0.6);
+}
+</style>
+</head>
+<body> <div>
+Scorpio-born are passionate and assertive people. They are determined and decisive, and will research until they find out the truth. Scorpio is a great leader, always aware of the situation and also features prominently in resourcefulness.</div>
+
+<div style="opacity:0.6">Scorpio is a Water sign and lives to experience and express emotions. Although emotions are very important for Scorpio, they manifest them differently than other water signs. In any case, you can be sure that the Scorpio will keep your secrets, whatever they may be.</div>
+
+<div style="opacity:0.3">Scorpio is a Water sign and lives to experience and express emotions. Although emotions are very important for Scorpio, they manifest them differently than other water signs. In any case, you can be sure that the Scorpio will keep your secrets, whatever they may be.</div>
+
+<div class="first">Scorpio is a Water sign and lives to experience and express emotions. Although emotions are very important for Scorpio, they manifest them differently than other water signs. In any case, you can be sure that the Scorpio will keep your secrets, whatever they may be.</div>
+
+</body>
+</html>

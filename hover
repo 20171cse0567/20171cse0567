@@ -1,0 +1,19 @@
+<html>
+<head>
+<style>
+p{
+display:none;
+background-color:#33e9ff;
+padding:30px;
+}
+div:hover p {
+display:block;
+}
+</style>
+</head>
+<body>
+<div>hover element
+<p>RAKSHITHA.JA</P>
+</div>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<html>
+<head>
+<style>
+a.highlight:hover{
+color:#ff0000;
+}
+</style>
+</head>
+<body>
+<p><a class="highlight" href="css_syntax.asp">psuedo class</a></p>
+<p><a href="default.asp">selector</a></p>
+</body>
+</html>
